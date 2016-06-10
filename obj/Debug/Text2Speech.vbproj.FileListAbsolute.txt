@@ -1,0 +1,10 @@
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\bin\Debug\Text2Speech.exe
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\bin\Debug\Text2Speech.pdb
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\bin\Debug\Text2Speech.xml
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\obj\Debug\Text2Speech.vbprojResolveAssemblyReference.cache
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\obj\Debug\Text2Speech.Form1.resources
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\obj\Debug\Text2Speech.Resources.resources
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\obj\Debug\Text2Speech.vbproj.GenerateResource.Cache
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\obj\Debug\Text2Speech.exe
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\obj\Debug\Text2Speech.xml
+c:\users\butskss\documents\visual studio 2015\Projects\Text2Speech\Text2Speech\obj\Debug\Text2Speech.pdb
